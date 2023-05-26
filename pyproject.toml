@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/unknown/simpler-sockets#readme"
-Issues = "https://github.com/unknown/simpler-sockets/issues"
-Source = "https://github.com/unknown/simpler-sockets"
+Documentation = "https://github.com/StrajnarFilip/simpler-sockets"
+Issues = "https://github.com/StrajnarFilip/simpler-sockets"
+Source = "https://github.com/StrajnarFilip/simpler-sockets"
 
 [tool.hatch.version]
 path = "src/simpler_sockets/__about__.py"
